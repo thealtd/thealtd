@@ -118,12 +118,6 @@
     <td><sub>created branch chore/rename-username-thealtd</sub></td>
     <td><sub><code>2026-10-02</code></sub></td>
   </tr>
-  <tr>
-    <td>🔄</td>
-    <td><sub><b>Eaquo</b>/quickshell-games-launchers</sub></td>
-    <td><sub>merged PR #14 · </sub></td>
-    <td><sub><code>2026-09-26</code></sub></td>
-  </tr>
 
   </tbody>
 </table>
