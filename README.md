@@ -100,24 +100,6 @@
     <td><sub>DeleteEvent</sub></td>
     <td><sub><code>2026-10-02</code></sub></td>
   </tr>
-  <tr>
-    <td>🔄</td>
-    <td><sub><b>thealtd</b>/thealtd</sub></td>
-    <td><sub>merged PR #1 · </sub></td>
-    <td><sub><code>2026-10-02</code></sub></td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td><sub><b>thealtd</b>/thealtd</sub></td>
-    <td><sub>opened PR #1 · </sub></td>
-    <td><sub><code>2026-10-02</code></sub></td>
-  </tr>
-  <tr>
-    <td>✨</td>
-    <td><sub><b>thealtd</b>/thealtd</sub></td>
-    <td><sub>created branch chore/rename-username-thealtd</sub></td>
-    <td><sub><code>2026-10-02</code></sub></td>
-  </tr>
 
   </tbody>
 </table>
