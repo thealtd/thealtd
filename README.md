@@ -94,12 +94,6 @@
     <td><sub>pushed changes · e622bbb</sub></td>
     <td><sub><code>2026-10-02</code></sub></td>
   </tr>
-  <tr>
-    <td>🗑️</td>
-    <td><sub><b>thealtd</b>/thealtd</sub></td>
-    <td><sub>DeleteEvent</sub></td>
-    <td><sub><code>2026-10-02</code></sub></td>
-  </tr>
 
   </tbody>
 </table>
