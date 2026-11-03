@@ -88,12 +88,6 @@
     <td><sub>created branch tmp-noreply-check</sub></td>
     <td><sub><code>2026-10-02</code></sub></td>
   </tr>
-  <tr>
-    <td>📤</td>
-    <td><sub><b>thealtd</b>/thealtd</sub></td>
-    <td><sub>pushed changes · e622bbb</sub></td>
-    <td><sub><code>2026-10-02</code></sub></td>
-  </tr>
 
   </tbody>
 </table>
