@@ -76,7 +76,13 @@
     </tr>
   </thead>
   <tbody>
-  <tr><td colspan='4' align='center'><sub>No recent public activity</sub></td></tr>
+  <tr>
+    <td>📤</td>
+    <td><sub><b>thealtd</b>/EfiRuta</sub></td>
+    <td><sub>pushed changes · 1902b82</sub></td>
+    <td><sub><code>2026-11-22</code></sub></td>
+  </tr>
+
   </tbody>
 </table>
 
